@@ -1,0 +1,30 @@
+.text-center {
+  height: 100vh;
+  padding-top: 40vh;
+}
+.modal-footer {
+  justify-content: space-between !important;
+}
+.btn-A {
+  background-color: #46139f !important;
+}
+.btn-B {
+  background-color: #ff7f50 !important;
+}
+.btn-C {
+  color: black !important;
+  background-color: #ffffff !important;
+  border-color: #46139f !important;
+}
+.search-wrapper {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.search {
+  width: 30%;
+}
+.list-group {
+  height: 300px;
+  overflow: auto;
+}
